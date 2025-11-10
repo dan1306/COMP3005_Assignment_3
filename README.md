@@ -41,8 +41,8 @@ The program will then ask for input, validate input, run queries against Postgre
 ## Video Demonstration
 I have recorded a video showing: the students table and initial rows in pgAdmin, running the TypeScript CLI, inserting, selecting, updating, and deleting rows, and confirming results in pgAdmin after each operation.
 
-Video Link: https://youtu.be/I52NoAgaR8c
-Link To Repo: https://github.com/dan1306/COMP3005_Assignment_3 
+1) Video Link: https://youtu.be/I52NoAgaR8c
+2) Link To Repo: https://github.com/dan1306/COMP3005_Assignment_3 
 
 Ideally you should not be pushing .env files for security purposes, but I pushed it so that it would be easier to run the program. Ideally it shouldn't be included in pushes because it holds sensitive information.
 ## End of README
